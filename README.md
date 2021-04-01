@@ -1,0 +1,1 @@
+this is a readme file for week 5 task HADOOP implementation of word count.
