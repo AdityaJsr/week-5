@@ -1,3 +1,12 @@
+  
+"""
+title - This is a Python script for on-premise reducer in Hadoop.
+author name - Aditya Kumar
+creation time - 29 February 2021
+modified time - 30 April 2021
+
+"""
+
 import sys
 import collections
 
