@@ -1,5 +1,12 @@
 #!/usr/bin/env python
+  
+"""
+title - This is a Python script for on-premise mapper in Hadoop.
+author name - Aditya Kumar
+creation time - 29 February 2021
+modified time - 30 April 2021
 
+"""
 # import sys because we need to read and write data to STDIN and STDOUT
 import sys
 
